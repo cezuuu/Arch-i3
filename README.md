@@ -1,4 +1,4 @@
-# linux-i3-config
+# Arch-i3
 Default Config
 
 ![ScreenShot](Arch.png "Desktop")

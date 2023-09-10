@@ -1,4 +1,4 @@
 # linux-i3-config
-#Default Config#
+Default Config
 
 ![ScreenShot](Arch.png "Pulpit")

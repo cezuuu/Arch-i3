@@ -176,6 +176,7 @@ bindsym $mod+Shift+r restart
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
 
 # "resize mode" zmienianie rozmiaru okien (mod+r)
+bindsym $mod+r mode "resize"
 mode "resize" {
 
         # Zmienianie przy pokocy strzalek 
@@ -190,5 +191,5 @@ mode "resize" {
         bindsym $mod+r mode "default"
 }
 
-bindsym $mod+r mode "resize"
+
 
